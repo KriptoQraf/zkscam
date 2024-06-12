@@ -1,0 +1,2 @@
+# zkscam
+ZkSync is ZkScam
